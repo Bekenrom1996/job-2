@@ -1,1 +1,1 @@
-# job-2
+# scriptriz-jobportal-website-template.github.io
